@@ -15,7 +15,7 @@ This project involves creating a mask detection AI from scratch without using an
 ---
 
 ### 2. Prepare Your Data
-- **Dataset Creation**: Collect images of people with and without masks.
+- **Dataset Creation**: Collect images of people with and without masks. ->https://www.kaggle.com/datasets/omkargurav/face-mask-dataset
 - **Preprocessing**: Write your own functions for:
   - Image loading
   - Resizing
